@@ -1,3 +1,5 @@
+[Compile](https://github.com/ringwormGO-organization/ringOS/blob/main-and-beta-things/Documentation.md#compile-and-run-in-qemu-betas)
+
 # About aquaOS
 Current version: 0.3
 
